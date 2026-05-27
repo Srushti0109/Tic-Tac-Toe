@@ -1,5 +1,5 @@
 # Premium AI-Powered Tic-Tac-Toe
-https://tic-tac-qr3u7wv8l-srush.vercel.app/
+https://tic-tac-toe-ten-kohl-42.vercel.app/
 
 A modern, production-quality Tic-Tac-Toe game built with React, Vite, Tailwind CSS, and Framer Motion. This project features a highly polished user interface with glassmorphism, dynamic theming, particle effects, and an unbeatable AI powered by the Minimax algorithm with Alpha-Beta pruning.
 
